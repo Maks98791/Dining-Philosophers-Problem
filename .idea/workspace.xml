@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="SO2_DiningPhilosophers" targetName="SO2_DiningPhilosophers" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="977d1df8-abdb-478e-8974-7968774b61df" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1ZMttCGMkj5nBQHPLRu2L0qwMZZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SO2_DiningPhilosophers" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SO2_DiningPhilosophers" TARGET_NAME="SO2_DiningPhilosophers" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SO2_DiningPhilosophers" RUN_TARGET_NAME="SO2_DiningPhilosophers">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="977d1df8-abdb-478e-8974-7968774b61df" name="Default Changelist" comment="" />
+      <created>1584661002874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584661002874</updated>
+      <workItem from="1584661004655" duration="4281000" />
+      <workItem from="1585307926343" duration="614000" />
+      <workItem from="1585573604618" duration="4755000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1781" height="263" key="GridCell.Tab.0.bottom" timestamp="1585308222187">
+      <screen x="83" y="34" width="1837" height="1046" />
+    </state>
+    <state width="1781" height="263" key="GridCell.Tab.0.bottom/83.34.1837.1046@83.34.1837.1046" timestamp="1585308222187" />
+    <state width="1781" height="263" key="GridCell.Tab.0.center" timestamp="1585308222185">
+      <screen x="83" y="34" width="1837" height="1046" />
+    </state>
+    <state width="1781" height="263" key="GridCell.Tab.0.center/83.34.1837.1046@83.34.1837.1046" timestamp="1585308222185" />
+    <state width="1781" height="263" key="GridCell.Tab.0.left" timestamp="1585308222184">
+      <screen x="83" y="34" width="1837" height="1046" />
+    </state>
+    <state width="1781" height="263" key="GridCell.Tab.0.left/83.34.1837.1046@83.34.1837.1046" timestamp="1585308222184" />
+    <state width="1781" height="263" key="GridCell.Tab.0.right" timestamp="1585308222186">
+      <screen x="83" y="34" width="1837" height="1046" />
+    </state>
+    <state width="1781" height="263" key="GridCell.Tab.0.right/83.34.1837.1046@83.34.1837.1046" timestamp="1585308222186" />
+  </component>
+</project>

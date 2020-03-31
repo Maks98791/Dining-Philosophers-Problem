@@ -1,0 +1,1 @@
+/usr/bin/c++    -pthread -lncurses -g    -pthread -lncurses CMakeFiles/SO2_DiningPhilosophers.dir/main.cpp.o  -o SO2_DiningPhilosophers -lncurses 

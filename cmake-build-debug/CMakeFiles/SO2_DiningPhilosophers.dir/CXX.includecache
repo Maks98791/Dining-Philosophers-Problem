@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/maks/Code/SO2_DiningPhilosophers/main.cpp
+iostream
+-
+thread
+-
+ncurses.h
+-
+time.h
+-
+unistd.h
+-
+mutex
+-
+
